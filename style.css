@@ -20,10 +20,11 @@ img{
 }
 .cabecalho{
     background-color:rgb(197, 156, 197);
+    display: flex;
 }
 .lista_cabecalho{
     display:flex;
-    margin-left: 500;
+    margin-left: 500px; 
 }
  .item_linha_cabecalho{
     color: bisque;
